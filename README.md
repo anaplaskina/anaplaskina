@@ -1,6 +1,6 @@
 ## Welcome to my GitHub page! My name is Anna Plaksina. 👋
 
-I am a Data Analyst in progress, transitioning from finance to data analytics.  
+### I am a Data Analyst in progress, transitioning from finance to data analytics.  
 I have 15+ years of experience in **financial reporting and analytics**, and I am now developing strong skills in **Python, SQL, and data analysis tools**.  
 
 💬 Background: Extensive expertise in finance, budgeting, and performance analysis.  
