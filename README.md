@@ -10,3 +10,5 @@ I have 15+ years of experience in **financial reporting and analytics**, and I a
 
 💾 This page features projects I am currently working on and able to share.  
 
+Connect with me:
+E-mail: mariaruts111@gmail.com
